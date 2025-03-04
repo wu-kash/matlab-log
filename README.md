@@ -9,7 +9,6 @@ Easy to use Matlab ```fprintf(...)``` for general purpose logging to command win
 logInfo('Hello World')
 ```
 
-Output:
 ```cmd
 [INFO] Hello World
 ```
@@ -23,7 +22,6 @@ logInfo('Hello %s', world)
 ```cmd
 [INFO] Hello World
 ```
-
 
 ```matlab
 % Print and indent logging
